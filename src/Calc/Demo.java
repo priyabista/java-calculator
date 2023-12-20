@@ -1,4 +1,4 @@
-package FirstProject;
+package Calc;
 
 public class Demo {
 
